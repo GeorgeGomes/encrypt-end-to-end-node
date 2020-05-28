@@ -1,7 +1,5 @@
 'use strict';
 
-//https://coolaj86.com/articles/asymmetric-public--private-key-encryption-in-node-js/
-
 const crypto = require('crypto')
 const path = require('path')
 const fs = require('fs')
